@@ -25,4 +25,5 @@ Hour 2-4: Worked through the command line crash course. At first things went gre
 Class 4
 
 Hour 1-3: Played around in python for a bit with looping. I think I'm getting it?!?!??!
+
 Hour 3-6: Tried very hard to figure out how to push my journal to git hub. It will not work and I am screaming. It's time to walk away from the computer. 
