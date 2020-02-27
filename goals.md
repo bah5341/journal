@@ -1,4 +1,4 @@
-#Journal
+Goals
 
 1.) Create a one-page website for fun.
 
