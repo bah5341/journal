@@ -1,3 +1,5 @@
+Journal
+
 Class 1
 
 Hour 1: Began to read through the Introduction to Command Line on GitHub. It was helpful to go through and reiterate what we discussed in class. I also practiced accessing the command line on my Mac. I know that’s pretty basic, but I am starting at the beginning with all of this, so I definitely have a long way to go and learn. 
