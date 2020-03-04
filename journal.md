@@ -29,3 +29,7 @@ Hour 2-4: Worked through the command line crash course. At first things went gre
 Hour 1-3: Played around in python for a bit with looping. I think I'm getting it?!?!??!
 
 Hour 3-6: Tried very hard to figure out how to push my journal to git hub. It will not work and I am screaming. It's time to walk away from the computer. 
+
+# Class 5
+
+Hours 1-6: For all my hours this week I played around in Python. I'm really excited about learning Python and I feel like I'm actually finally starting to get it. I feel like my anxiety has definitely been getting better related to coding. I feel pretty comfortable with building the if and else conditions and have started really enjoying writing out a program (can I call it that now?!!?!?!). Looking forward to doing more with python in class this week. 
