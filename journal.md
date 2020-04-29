@@ -63,3 +63,7 @@ Additionally, this week I took a look at the Creating Web API's with Python and 
 For this week's hours, I began looking into the logistics of how to complete my final project. To be honest, I feel like I've fallen quite behind in the class. This is likely because of the stress of the pandemic, increase in work in my full time job, and the course being moved remote. I'm really interested in learning these coding skills; however I really miss the in class time. I felt like I picked up a lot during class time that I'm just not getting now. 
 
 All of this being said, I did some research for my hours this week and ended up more confused than ever. I'm hoping to gain some clarity this week and get some more ideas about where to start with this project. I'm trying to remain positive about the project, but honestly I'm really very overwhelmed. 
+
+# Class 13 
+
+For this week's hours I've been mostly sort of stuck with my final project. I'm trying to find a place to get started with the code because I honestly just feel so lost. Fortunately, Patrick sent over a some resources for me to help get me started with the project. I've started to look over these so that I can get things rolling. Unfortunately, this week has been quite busy, but I'm hoping to make some serious progress on my final project this weekend. Fingers crossed everyone! 
