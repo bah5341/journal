@@ -67,3 +67,9 @@ All of this being said, I did some research for my hours this week and ended up 
 # Class 13 
 
 For this week's hours I've been mostly sort of stuck with my final project. I'm trying to find a place to get started with the code because I honestly just feel so lost. Fortunately, Patrick sent over a some resources for me to help get me started with the project. I've started to look over these so that I can get things rolling. Unfortunately, this week has been quite busy, but I'm hoping to make some serious progress on my final project this weekend. Fingers crossed everyone! 
+
+# Class 14 & 15
+
+Sorry I missed last week's journal post--I just combined it with this week's because I did the same thing for my hours. I've been working hard on my final project, struggling a bit, succeeding a bit, but moving forward nonetheless. Thanks to Patrick, I've been able to get over several roadblocks with my project. It feels really great when I finally get it and solve a problem, especially after struggling for long periods of time. Feeling like a true coder now. 
+
+I'm getting really close with my final project. I'm excited for it to be finished and working. I almost wish this course as a whole had a part 2 in another semester to keep building my skills. I've really enjoyed the course as a whole and wish we had more time in class together as a group. Thank you Patrick for teaching us through this strange point in history. I wish everyone the best!
